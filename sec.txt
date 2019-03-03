@@ -1,0 +1,9 @@
+//this is comment
+#include<stdio.h>
+void main()
+{
+printf("gauthami!");
+printf("workshop");
+
+
+}
